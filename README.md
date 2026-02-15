@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="URJAX LOGO.png" alt="URJAX Logo" width="650"/>
+  <img src="./assets/URJAX LOGO.png" alt="URJAX Logo" width="650"/>
 </p>
 
 ---
